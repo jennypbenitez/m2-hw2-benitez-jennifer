@@ -1,4 +1,9 @@
 img {
-    display: block;
-    width: 100%;
+    width: 20vw;
+    height: 20vw;
+    margin: auto;
+}
+
+.container {
+    text-align: center;
 }
